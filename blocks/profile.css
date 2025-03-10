@@ -6,6 +6,9 @@
 
 .profile__avatar {
   margin-right: 20px;
+  border-radius: 8px;
+  height: 190px;
+  width: 190px;
 }
 
 .profile__column {
@@ -15,6 +18,7 @@
 
 .profile__name {
   margin: 0 0 12px;
+  color: #212121;
 }
 
 .profile__description {
@@ -23,8 +27,26 @@
 
 .profile__edit-button {
   margin-top: auto;
+  height: 16px;
+  color: #212121;
+  background-color: transparent;
+  border: none;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+  opacity: 0.7;
+  padding: 0;
+}
+
+.profile__edit-button:hover {
+  opacity: 1;
+  cursor: pointer;
 }
 
 .profile__add-button {
   margin-left: auto;
+}
+
+.profile__add-button:hover {
+  cursor: pointer;
 }
