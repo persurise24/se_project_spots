@@ -42,3 +42,25 @@
   opacity: 1;
   cursor: pointer;
 }
+
+@media screen and (max-width: 627px) {
+  .card__image {
+    height: 288px;
+  }
+
+  .card__title {
+    font-size: 16px;
+    line-height: 100%;
+  }
+
+  .card__like-btn {
+    width: 20px;
+    height: 18px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
+  .card__content {
+    max-width: 288px;
+  }
+}
