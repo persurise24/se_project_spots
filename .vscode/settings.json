@@ -4,16 +4,17 @@
   "editor.minimap.enabled": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Palenight (Mild Contrast)",
+  "workbench.colorTheme": "Beautiful Dracula Normal - No Highlight",
   "editor.guides.bracketPairs": true,
   "workbench.colorCustomizations": {
 
   },
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
-  "editor.fontFamily": "'AudioLinkMono', Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "'Audio Link Mono', Consolas, 'Courier New', monospace",
   "workbench.activityBar.iconClickBehavior": "toggle",
   "zenMode.hideActivityBar": true,
   "workbench.sideBar.location": "left",
+  "workbench.preferredDarkColorTheme": "Beautiful Dracula Darker - No Highlight",
 
 }
