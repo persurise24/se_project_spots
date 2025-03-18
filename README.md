@@ -27,11 +27,15 @@ This project was built using:
 
 This project's responsiveness allows the site to look like this on your desktop:
 
-![Desktop View](./images/screenshots/Screenshot%202025-03-12%20235654.png)
+![Desktop View](./images/screenshots/Desktop.png)
+
+While tansitioning to a tablet size:
+
+![Tablet View](./images/screenshots/Tablet.png)
 
 But also will smoothly transition to the size of a mobile device:
 
-![Mobile View](./images/screenshots/Screenshot%202025-03-18%20045541.png)
+![Mobile View](./images/screenshots/Phone.png)
 
 ##  Live Demo
 
