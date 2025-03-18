@@ -1,21 +1,38 @@
-# Project 3: Spots
+# Project 3 - Spots
 
-### Overview  
+An interactive open image gallery.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## About the Project
+
+**Project 3 - Spots** is a web page showcasing a user's profile and images. It allows users to edit their profile with a personalized bio and also allows users to display images. Whether you're viewing the site on the go or at your desk, this project aims to provide a smooth and visually pleasing display of the user's chosen images.
+
+## Features
+
+-  **Optimized for Mobile** – Website will adapt seamlessly to different devices for optimal function and viewing. 
+-  **Interface Logo** – Brand logo displayed prominently on page.
+-  **Simple Page Design** – User friendly minimalist design allows users to easily navigate the user profile and view content.
+
+## Technologies & Techniques Used
+
+This project was built using:
+
+- **HTML** 
+- **CSS** 
+- **Responsive Design** 
+- **Media Queries** 
+- **Git**
+- **Figma**
+
+## Screenshots
+
+This project's responsiveness allows the site to look like this on your desktop:
+
+![Desktop View](./images/screenshots/Screenshot%202025-03-12%20235654.png)
+
+But also will smoothly transition to the size of a mobile device:
+
+![Mobile View](./images/screenshots/Screenshot%202025-03-18%20045541.png)
+
+##  Live Demo
+
+Check out the deployed project [here](your-github-pages-url)
