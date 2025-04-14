@@ -90,7 +90,7 @@
 }
 
 .profile__add-button::before {
-  content: "   ";
+  content: "";
   width: 16px;
   height: 16px;
   background-image: url(../images/plus-icon.svg);
