@@ -13,7 +13,7 @@
   "workbench.activityBar.iconClickBehavior": "toggle",
   "zenMode.hideActivityBar": true,
   "workbench.sideBar.location": "left",
-  "workbench.preferredDarkColorTheme": "Pastel Pixels",
+  "workbench.preferredDarkColorTheme": "Fluffy Dark Theme",
   "window.autoDetectColorScheme": true,
   "workbench.externalBrowser": "chrome"
 }

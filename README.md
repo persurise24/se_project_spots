@@ -8,18 +8,18 @@ An interactive open image gallery.
 
 ## Features
 
--  **Optimized for Mobile** – Website will adapt seamlessly to different devices for optimal function and viewing. 
--  **Interface Logo** – Brand logo displayed prominently on page.
--  **Simple Page Design** – User friendly minimalist design allows users to easily navigate the user profile and view content.
+- **Optimized for Mobile** – Website will adapt seamlessly to different devices for optimal function and viewing.
+- **Interface Logo** – Brand logo displayed prominently on page.
+- **Simple Page Design** – User friendly minimalist design allows users to easily navigate the user profile and view content.
 
 ## Technologies & Techniques Used
 
 This project was built using:
 
-- **HTML** 
-- **CSS** 
-- **Responsive Design** 
-- **Media Queries** 
+- **HTML**
+- **CSS**
+- **Responsive Design**
+- **Media Queries**
 - **Git**
 - **Figma**
 
@@ -37,6 +37,6 @@ But also will smoothly transition to the size of a mobile device:
 
 ![Mobile View](./images/screenshots/phone.png)
 
-##  Live Demo
+## Live Demo
 
-Check out the deployed project [here](https://persurise24.github.io/se_project_spots/)
+Check out the deployed project [here](https://drive.google.com/file/d/1s_WVOFKh9NninS7AHVqRLgdpQNvPw_Yo/view?usp=sharing)
