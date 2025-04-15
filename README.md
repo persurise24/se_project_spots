@@ -11,11 +11,18 @@ An interactive open image gallery.
 - **Optimized for Mobile** – Website will adapt seamlessly to different devices for optimal function and viewing.
 - **Interface Logo** – Brand logo displayed prominently on page.
 - **Simple Page Design** – User friendly minimalist design allows users to easily navigate the user profile and view content.
+- **Optimized for Mobile** – Website will adapt seamlessly to different devices for optimal function and viewing.
+- **Interface Logo** – Brand logo displayed prominently on page.
+- **Simple Page Design** – User friendly minimalist design allows users to easily navigate the user profile and view content.
 
 ## Technologies & Techniques Used
 
 This project was built using:
 
+- **HTML**
+- **CSS**
+- **Responsive Design**
+- **Media Queries**
 - **HTML**
 - **CSS**
 - **Responsive Design**
