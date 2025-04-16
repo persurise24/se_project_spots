@@ -4,7 +4,7 @@
   "editor.minimap.enabled": true,
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "liveServer.settings.donotShowInfoMsg": true,
-  "workbench.colorTheme": "Evondev Dracula High Contrast",
+  "workbench.colorTheme": "Palenight (Mild Contrast)",
   "editor.guides.bracketPairs": true,
   "workbench.colorCustomizations": {},
   "editor.fontLigatures": true,
